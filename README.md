@@ -102,3 +102,7 @@ Conclusion:
 
 This task helped me gain a deeper understanding of how Decision Trees operate in a classification setting. It strengthened my skills in data handling, model building, evaluation, and visualization. Through this hands-on experience, I learned how to break down a machine learning workflow into understandable components, which is crucial for future tasks involving more complex models and datasets. This foundational exercise sets the stage for tackling more advanced algorithms and real-world machine learning challenges during the rest of my internship at Codtech IT Solutions.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/dd5bd210-16a0-4ccc-9d6f-5612c660aec3)
+
